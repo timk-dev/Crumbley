@@ -7,7 +7,7 @@ A clean and modern recipe explorer created using React + Vite. Allows users to b
 Key Highlights: REST API usage, dynamic rendering, loading state management, and reusable components.
 
 ## :desktop_computer: Features
-  * :electric_plug: Responsive
+  * :electric_plug: Optimized for Desktop
   * :electric_plug: SEO-Friendly
   * :electric_plug: UI Animations
   * :electric_plug: Comprehensive Recipe Search
