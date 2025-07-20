@@ -11,3 +11,8 @@ Key Highlights: REST API usage, dynamic rendering, loading state management, and
   * :electric_plug: SEO-Friendly
   * :electric_plug: UI Animations
   * :electric_plug: Comprehensive Recipe Search
+
+# Original Site 
+![Crumbley](https://github.com/timk-dev/Crumbley/blob/main/crumbsite1.webp?raw=true)
+![Crumbley](https://github.com/timk-dev/Crumbley/blob/main/crumbsite2.webp?raw=true)
+![Crumbley](https://github.com/timk-dev/Crumbley/blob/main/crumbsite3.webp?raw=true)
